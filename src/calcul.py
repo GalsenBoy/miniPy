@@ -1,3 +1,4 @@
+
 def add():
     try:
         x = int(input("Veuillez saisir le premier nombre" + "\n"))
@@ -50,4 +51,4 @@ def div():
         return x / y
 
 
-print(div())
+print(add())
